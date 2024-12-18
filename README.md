@@ -7,6 +7,8 @@ luego switchear al directorio del repo y poner
 
 python3 pip install -r requirements.txt
 
-finalmente python3 
+finalmente python3 pose-yolo.py
+
+
 
 
